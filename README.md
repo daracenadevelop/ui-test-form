@@ -1,2 +1,2 @@
 # ui-test-form
-inyer automatic text into  fromend
+inject automatic text into form and excute actions
